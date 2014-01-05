@@ -21,7 +21,7 @@ Install the python modules in requirements.txt (using [pip][3]):
 
 2. **Generate OAuth tokens for tumblr**
 
-    They must be in the format of default_credentials.json
+    They must be in the format of default_credentials.json.
     Can be created using:
 
         python generate_credentials.py
